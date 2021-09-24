@@ -2,12 +2,12 @@
 - 👀 I’m interested in the blockchain technologie
 - 🌱 I’m currently working on a decentralized trading platform that would provide beginners with lots of utilities
 - 📫 How to reach me ...
-Telegram : @trdc_family
-website : trdctoken.com
-Facebook : hamza.benayli
+  - Telegram : @trdc_family
+  - website : trdctoken.com
+  - Facebook : hamza.benayli
 
-Creator of TRDC token project, audited by TechRate [https://github.com/TechRate] : 
-https://github.com/TechRate/Smart-Contract-Audits/blob/9c68b3f1534a65c72b24bea58d12237f9c2ed927/August/Traders%20coin%20Full%20Smart%20Contract%20Security%20Audit.pdf
+- Creator of TRDC token project, audited by TechRate [https://github.com/TechRate] : 
+  - https://github.com/TechRate/Smart-Contract-Audits/blob/9c68b3f1534a65c72b24bea58d12237f9c2ed927/August/Traders%20coin%20Full%20Smart%20Contract%20Security%20Audit.pdf
 
 I'll be posting some coding parts used in smart contracts .. :D
 
