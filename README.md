@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @hamzabnl
-- 👀 I’m interested in the blockchain technologie
+- 👋 Hi, I’m @trdcCoin
+- 👀 An amazing Blockchain Technology
 - 🌱 I’m currently working on a decentralized trading platform that would provide beginners with lots of utilities
-- 📫 How to reach me ...
+- 📫 How to reach us ...
   - Telegram : @trdc_family
   - website : trdctoken.com
   - Facebook : hamza.benayli
