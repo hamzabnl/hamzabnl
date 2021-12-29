@@ -77,7 +77,7 @@ These wallets main goal is to track user's and also whale wallets and even dupli
 
 <strong>Metaverse Game coming soon ⏳</strong>
 
-<strong>Gaming NFT Project coming soon ⏳</strong>
+<strong>NFT Project coming soon ⏳</strong>
 
 <strong>TRDC Launchpad coming soon ⏳</strong>
 
