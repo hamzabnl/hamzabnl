@@ -57,11 +57,13 @@ TRDC Wallet Android version: https://play.google.com/store/apps/details?id=com.t
 
 TRDC IOS version: in process ⌛ (we will update it here, once Apple review is completed)
 
-<strong>TRDC Swap:</strong>
+
+<br><strong>TRDC Swap:</strong>
 
 TRDC Dex platform will be available in January 4.
 
-<strong>TRDC S,C,X Wallets (beta version in 2022) ⏳</strong>
+
+<br><strong>TRDC S,C,X Wallets (beta version in 2022) ⏳</strong>
 
 These wallets main goal is to track user's and also whale wallets and even duplicate their transactions, just like the forex demo, we are trying to replicate it in the crypto field for beginners to train and sharpen their skills!
 
