@@ -55,12 +55,12 @@ Traders Coin Wallet ( trdc wallet ) is an easy app for trading and following all
 
 TRDC Wallet Android version: https://play.google.com/store/apps/details?id=com.trdc.token&hl=en&gl=US
 
-TRDC IOS version: in process ⌛ (we will update it here, once Apple review is completed)
+TRDC IOS version: https://apps.apple.com/us/app/trdc-wallet/id1602144726
 
 
 <br><strong>TRDC Swap:</strong>
 
-TRDC Dex platform will be available in January 4.
+TRDC Dex platform: https://trdcswap.finance/
 
 
 <br><strong>TRDC S,C,X Wallets (beta version in 2022) ⏳</strong>
