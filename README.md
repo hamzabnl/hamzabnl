@@ -1,4 +1,4 @@
-   <img src="https://www.tta.ma/wp-content/uploads/2021/12/NewLogo-2.png" width="300" style="max-width: 100%;">
+   <img src="https://trdctoken.com/wp-content/uploads/2021/12/NewLogo-1.png" width="300" style="max-width: 100%;">
 
 Hey there,
 Welcome to Traders Coin Official Github, thanks for checking us out! 🥰
@@ -61,6 +61,10 @@ TRDC IOS version: https://apps.apple.com/us/app/trdc-wallet/id1602144726
 <br><strong>TRDC Swap:</strong>
 
 TRDC Dex platform: https://trdcswap.finance/
+
+<br><strong>TRDC Stake Platform:</strong>
+
+TRDC Stake Dex: https://trstake.com/
 
 
 <br><strong>TRDC S,C,X Wallets (beta version in 2022) ⏳</strong>
